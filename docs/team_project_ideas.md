@@ -15,4 +15,5 @@ you like the best.
 | First idea | Description | | | | | | |
 | Second idea | Description | | | | | | |
 | ... | Description | | | | | | |
-| School Management System | this is my description | x | | | | | |
+| Homeschool Management System | Homeschool management systems make it easier for homeschooling families to stay organized and on track, while also providing them with a convenient way to record their child's progress. | | | | | | |
+| School Management System |cloud-based solution that is easy to set up and use. It includes a wide range of features, including student information management, attendance tracking, gradebook management, and parent communication tools. | x | | | | | |
