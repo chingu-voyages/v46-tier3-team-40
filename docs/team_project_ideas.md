@@ -10,9 +10,9 @@ sentences.
 Each team member should Place an 'X' under their name to vote for the ideas 
 you like the best.
 
-| Project Idea | Description | teammate name | teammate name | teammate name | teammate name | teammate name | teammate name |
+| Project Idea | Description | Michael Sanchez | teammate name | teammate name | teammate name | teammate name | teammate name |
 | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- |
 | First idea | Description | | | | | | |
 | Second idea | Description | | | | | | |
 | ... | Description | | | | | | |
-| Last idea | Description | | | | | | |
+| School Management System | this is my description | x | | | | | |
