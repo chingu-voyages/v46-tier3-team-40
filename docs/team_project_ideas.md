@@ -17,3 +17,5 @@ you like the best.
 | ... | Description | | | | | | |
 | Homeschool Management System | Homeschool management systems make it easier for homeschooling families to stay organized and on track, while also providing them with a convenient way to record their child's progress. | | | | | | |
 | School Management System |cloud-based solution that is easy to set up and use. It includes a wide range of features, including student information management, attendance tracking, gradebook management, and parent communication tools. | x | | | | | |
+| w3Schools | Create a Guide to creating a Next.js project |  | | x| | | |
+| Got questions | Create a topics for the day and people can answer questions |  | | x| | | |
